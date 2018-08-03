@@ -2,4 +2,7 @@
 2.class-2
 3.class-3
 4.class-4
+<<<<<<< HEAD
 5.class-5
+=======
+>>>>>>> 8d247375c2a1d3e442f9b42b717c69d3880df60b
